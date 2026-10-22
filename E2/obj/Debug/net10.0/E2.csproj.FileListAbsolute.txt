@@ -1,0 +1,14 @@
+C:\Users\romig\OneDrive\Documents\Prueba\E2\E2\bin\Debug\net10.0\E2.exe
+C:\Users\romig\OneDrive\Documents\Prueba\E2\E2\bin\Debug\net10.0\E2.deps.json
+C:\Users\romig\OneDrive\Documents\Prueba\E2\E2\bin\Debug\net10.0\E2.runtimeconfig.json
+C:\Users\romig\OneDrive\Documents\Prueba\E2\E2\bin\Debug\net10.0\E2.dll
+C:\Users\romig\OneDrive\Documents\Prueba\E2\E2\bin\Debug\net10.0\E2.pdb
+C:\Users\romig\OneDrive\Documents\Prueba\E2\E2\obj\Debug\net10.0\E2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romig\OneDrive\Documents\Prueba\E2\E2\obj\Debug\net10.0\E2.AssemblyInfoInputs.cache
+C:\Users\romig\OneDrive\Documents\Prueba\E2\E2\obj\Debug\net10.0\E2.AssemblyInfo.cs
+C:\Users\romig\OneDrive\Documents\Prueba\E2\E2\obj\Debug\net10.0\E2.csproj.CoreCompileInputs.cache
+C:\Users\romig\OneDrive\Documents\Prueba\E2\E2\obj\Debug\net10.0\E2.dll
+C:\Users\romig\OneDrive\Documents\Prueba\E2\E2\obj\Debug\net10.0\refint\E2.dll
+C:\Users\romig\OneDrive\Documents\Prueba\E2\E2\obj\Debug\net10.0\E2.pdb
+C:\Users\romig\OneDrive\Documents\Prueba\E2\E2\obj\Debug\net10.0\E2.genruntimeconfig.cache
+C:\Users\romig\OneDrive\Documents\Prueba\E2\E2\obj\Debug\net10.0\ref\E2.dll
